@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Haseeb
 =======================================================================================================================================
 
-CS Student | Researcher in AI for Healthcare | Explorer of Data, Code & Impact | Community-Driven Tech Enthusiast | Hiker & Badmenton Lover from Swat
+CS Student | Researcher in AI for Healthcare | Explorer of Data, Code & Impact | Community-Driven Tech Enthusiast | Hiker & Football Lover from Swat
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 I’m a final-year Computer Science student at the University of Swat with a passion for AI, deep learning, and data science. Currently, I’m leading research on lung cancer detection using deep transfer learning and medical imaging. My main focus is in healthcare AI, but I’m also keen on NLP, FastAPI, and model deployment.
@@ -13,7 +13,7 @@ I’m a final-year Computer Science student at the University of Swat with a pas
 * ⚡  Fun fact: If I'm not found here, I'll most probably hiking in the mountains or drinking Tea ☕ with Friends
 
 <a href="https://www.github.com/muhammad-haseeb-cs" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/muhammad-haseeb-cs?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/muhammad-haseeb-cs?logo=github&style=for-the-badge&color=ef4444&labelColor=ffffff" /></a>
 
 ### Skills
 
@@ -31,16 +31,14 @@ src="https://img.shields.io/github/followers/muhammad-haseeb-cs?logo=github&styl
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/muhammad-haseeb-cs"><img src="https://github-readme-stats.vercel.app/api?username=muhammad-haseeb-cs&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="muhammad-haseeb-cs's GitHub stats" /></a>
+<a href="http://www.github.com/muhammad-haseeb-cs"><img src="https://github-readme-stats.vercel.app/api?username=muhammad-haseeb-cs&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="muhammad-haseeb-cs's GitHub stats" /></a>
 
-<a href="http://www.github.com/muhammad-haseeb-cs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-haseeb-cs&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/muhammad-haseeb-cs"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=muhammad-haseeb-cs&bg_color=000000&color=ffffff&line=ef4444&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/muhammad-haseeb-cs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-haseeb-cs&stroke=000000&background=ffffff&ring=0f172a&fire=0f172a&currStreakNum=000000&currStreakLabel=0f172a&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/muhammad-haseeb-cs/Movie-Recommendation-System-Through-CS-SVD-CNF-RNN" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-haseeb-cs&repo=Movie-Recommendation-System-Through-CS-SVD-CNF-RNN&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/muhammad-haseeb-cs/SMS-spam-classification" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-haseeb-cs&repo=SMS-spam-classification&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/muhammad-haseeb-cs/Movie-Recommendation-System-Through-CS-SVD-CNF-RNN" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-haseeb-cs&repo=Movie-Recommendation-System-Through-CS-SVD-CNF-RNN&title_color=0f172a&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/muhammad-haseeb-cs/SMS-spam-classification" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-haseeb-cs&repo=SMS-spam-classification&title_color=0f172a&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/muhammad-haseeb-cs/DCST-CMS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-haseeb-cs&repo=DCST-CMS&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/muhammad-haseeb-cs/DCST-CMS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-haseeb-cs&repo=DCST-CMS&title_color=0f172a&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
