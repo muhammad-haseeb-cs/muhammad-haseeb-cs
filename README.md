@@ -1,16 +1,46 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Haseeb
+=======================================================================================================================================
 
-<!--
-**muhammad-haseeb-cs/muhammad-haseeb-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Student | Researcher in AI for Healthcare | Explorer of Data, Code & Impact | Community-Driven Tech Enthusiast | Hiker & Football Lover from Swat
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+I’m a final-year Computer Science student at the University of Swat with a passion for AI, deep learning, and data science. Currently, I’m leading research on lung cancer detection using deep transfer learning and medical imaging. My main focus is in healthcare AI, but I’m also keen on NLP, FastAPI, and model deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Swat, Pakistan
+* ✉️  You can contact me at [muhammadhaseeb.bcs@gmail.com](mailto:muhammadhaseeb.bcs@gmail.com)
+* 🧠  I'm learning Advanced Deep Learning, Machine learning, AI in Healthcare and Model Deployment with FastAPI
+* 🤝  I'm open to collaborating on AI and deep learning projects, especially those focused on medical imaging, computer vision, or healthcare innovation.
+* ⚡  Fun fact: If I'm not found here, I'll most probably hiking in the mountains or drinking Tea ☕ with Friends
+
+<a href="https://www.github.com/muhammad-haseeb-cs" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/muhammad-haseeb-cs?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.facebook.com/haseeb.zaman.52687506" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/muhammad-haseeb-cs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.gitlab.com/muhammad-haseeb-cs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/muhammad_haseeb_780" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/muhammad-haseeb-cs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@amazingswatvalleywithmhk2155" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@muhammad_haseeb_780" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/muhammad-haseeb-cs"><img src="https://github-readme-stats.vercel.app/api?username=muhammad-haseeb-cs&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="muhammad-haseeb-cs's GitHub stats" /></a>
+
+<a href="http://www.github.com/muhammad-haseeb-cs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-haseeb-cs&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/muhammad-haseeb-cs"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=muhammad-haseeb-cs&bg_color=000000&color=ffffff&line=ef4444&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/muhammad-haseeb-cs/Movie-Recommendation-System-Through-CS-SVD-CNF-RNN" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-haseeb-cs&repo=Movie-Recommendation-System-Through-CS-SVD-CNF-RNN&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/muhammad-haseeb-cs/SMS-spam-classification" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-haseeb-cs&repo=SMS-spam-classification&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/muhammad-haseeb-cs/DCST-CMS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-haseeb-cs&repo=DCST-CMS&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div>
