@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Haseeb
 =======================================================================================================================================
 
-CS Student | Researcher in AI for Healthcare | Explorer of Data, Code & Impact | Community-Driven Tech Enthusiast | Hiker & Badmenton Lover from Swat
+CS Student | Researcher in AI for Healthcare | Explorer of Data, Code & Impact | Community-Driven Tech Enthusiast | Hiker & Badminton Lover from Swat
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 I’m a final-year Computer Science student at the University of Swat with a passion for AI, deep learning, and data science. Currently, I’m leading research on lung cancer detection using deep transfer learning and medical imaging. My main focus is in healthcare AI, but I’m also keen on NLP, FastAPI, and model deployment.
